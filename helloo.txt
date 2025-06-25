@@ -1,0 +1,13 @@
+# Simple Python code to sum two numbers
+num1 = 10000000
+num3 = 200000
+
+# Calculate the sum
+sum_result = num1 + num3
+ Added two lines
+ Added 1 
+ Add
+
+
+# Print the result
+print("The sum is:", sum_result)
