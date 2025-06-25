@@ -1,0 +1,13 @@
+# Simple Python code to sum two numbers
+num1 
+num3 = 20
+
+# Calculate the sum
+sum_result = num1 + num3
+ Added two lines
+ Added 1 
+ Add
+
+
+# Print the result
+print("The sum is:", sum_result)
